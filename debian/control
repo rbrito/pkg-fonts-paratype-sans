@@ -1,4 +1,4 @@
-Source: font-paratype-sans
+Source: fonts-paratype-sans
 Section: fonts
 Priority: optional
 Build-Depends: debhelper (>= 7.0.50~)
