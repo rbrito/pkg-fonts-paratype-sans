@@ -1,15 +1,18 @@
 Source: fonts-paratype-sans
 Section: fonts
 Priority: optional
-Build-Depends: debhelper (>= 9)
+Build-Depends:
+ debhelper (>= 9)
 Maintainer: Dmitry Rozhkov <dmitry.rojkov@gmail.com>
-Uploaders: Rogério Brito <rbrito@ime.usp.br>
+Uploaders:
+ Rogério Brito <rbrito@ime.usp.br>
 Standards-Version: 3.9.1
 Homepage: http://paratype.com/public
 
 Package: ttf-paratype-sans
 Architecture: all
-Depends: ${misc:Depends}
+Depends:
+ ${misc:Depends}
 Description: ParaType Sans font family
  PT Sans is a type family of universal use. It consists of 8 styles:
  regular and bold weights with corresponding italics form a standard
