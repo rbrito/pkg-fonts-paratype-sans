@@ -9,7 +9,7 @@ Uploaders:
 Standards-Version: 3.9.1
 Homepage: http://paratype.com/public
 
-Package: ttf-paratype-sans
+Package: fonts-paratype-sans
 Architecture: all
 Depends:
  ${misc:Depends}
