@@ -8,6 +8,8 @@ Uploaders:
  Rogério Brito <rbrito@ime.usp.br>
 Standards-Version: 3.9.1
 Homepage: http://paratype.com/public
+Vcs-Browser: https://anonscm.debian.org/cgit/pkg-fonts/ttf-paratype-sans.git
+Vcs-Git: https://anonscm.debian.org/git/pkg-fonts/ttf-paratype-sans.git
 
 Package: fonts-paratype-sans
 Architecture: all
